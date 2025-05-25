@@ -41,6 +41,7 @@ parso==0.8.4
 patsy==1.0.1
 pickleshare==0.7.5
 pillow==11.2.1
+pip>=25.1.1
 platformdirs==4.2.0
 plotly==6.1.1
 prompt_toolkit==3.0.43
@@ -54,7 +55,7 @@ pyogrio==0.11.0
 pyproj==3.7.1
 python-dateutil==2.9.0.post0
 pytz==2025.2
-pyzmq==26.0.3
+pyzmq==26.0.0
 referencing==0.36.2
 requests==2.32.3
 rpds-py==0.25.1
